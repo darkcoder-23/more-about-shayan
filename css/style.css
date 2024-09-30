@@ -625,7 +625,7 @@ a:hover {
 .intro .intro-title {
   color: #fff;
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 30px;
 }
 
 .intro .intro-subtitle {
@@ -1226,7 +1226,7 @@ footer .credits a {
   }
 
   .intro .intro-title {
-    font-size: 4.5rem;
+    font-size: 40px;
   }
 
   .intro .intro-subtitle {
@@ -1273,4 +1273,15 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+
+.skill-mf span {
+  color: #4e4e4e;
+  background: #000;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 4px;
+  margin: 3px 5px;
+  display: inline-block;
 }
